@@ -91,7 +91,7 @@ def main():
         return
     
     # Process the file
-    output_dir = "output"
+    output_dir = "data/jsonpqt"
     metadata_file, parquet_file = process_rinex_file(rinex_file, output_dir)
     
     # Print metadata summary
