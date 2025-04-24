@@ -9,7 +9,6 @@
 │   └─── pyproject.toml
 │   └─── requirements.txt
 │   └─── setup.py
-│   └─── update_directory_structure.py
 │   └───docs
 │   │   └───source
 │   │   │   └─── placeholder.txt
