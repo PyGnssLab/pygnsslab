@@ -3,5 +3,4 @@ pandas
 matplotlib
 setuptools
 pytest
-json
 pyarrow
