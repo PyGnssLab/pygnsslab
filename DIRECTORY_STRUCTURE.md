@@ -2,6 +2,7 @@
 
 ```
 .
+│   └─── .gitignore
 │   └─── DIRECTORY_STRUCTURE.md
 │   └─── LICENSE
 │   └─── README.md
@@ -19,6 +20,7 @@
 │   │   │   └───rinex3
 │   │   │   │   └─── __init__.py
 │   │   │   │   └─── example_usage.py
+│   │   │   │   └─── metadata.py
 │   │   │   │   └─── reader.py
 │   │   │   │   └─── utils.py
 │   │   │   │   └─── writer.py
