@@ -19,7 +19,7 @@ Open-source Python-based GNSS software.
 - Developers creating custom GNSS pipelines
 - Students learning GNSS with Python
 
-## 📁 Repositories
+## 📁 Modules
 
 This organization hosts multiple standalone and integrated modules:
 - *(Coming soon)*
