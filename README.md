@@ -46,6 +46,34 @@ This organization hosts multiple standalone and integrated modules:
   - Troposphere & Ionosphere Models
   - Orbit & Clock Products Interface
 
+## 🚀 Getting Started
+
+### Installation
+
+Follow these steps to get PyGNSSLab set up on your local machine:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/PyGNSSLab/pygnsslab.git
+    cd pygnsslab
+    ```
+
+2.  **Create and activate a virtual environment (Recommended):**
+    ```bash
+    python -m venv venv
+    # On Windows
+    .\venv\Scripts\activate
+    # On macOS/Linux
+    source venv/bin/activate
+    ```
+
+3.  **Install the required dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+Now you're ready to use the PyGNSSLab tools and libraries!
+
 ## 📜 License
 
 All repositories under PyGNSSLab are released under the **MIT License** unless otherwise specified.
