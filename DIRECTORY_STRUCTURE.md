@@ -9,12 +9,7 @@
 │   └─── pygnsslab_logo.png
 │   └─── pyproject.toml
 │   └─── requirements.txt
-│   └─── satellite_G31_clock_correction.png
-│   └─── satellite_G31_orbit.png
 │   └─── setup.py
-│   └───docs
-│   │   └───source
-│   │   │   └─── placeholder.txt
 │   └───src
 │   │   └─── __init__.py
 │   │   └───pygnsslab
@@ -40,6 +35,13 @@
 │   │   │   │   │   └─── metadata.py
 │   │   │   │   │   └─── reader.py
 │   │   │   │   │   └─── utils.py
+│   │   │   │   └───sp3
+│   │   │   │   │   └─── __init__.py
+│   │   │   │   │   └─── example_usage.py
+│   │   │   │   │   └─── metadata.py
+│   │   │   │   │   └─── reader.py
+│   │   │   │   │   └─── utils.py
+│   │   │   │   │   └─── writer.py
 │   └───tests
 │   │   └───rinex2
 │   │   │   └─── test_output.ipynb
