@@ -1,6 +1,8 @@
 # pygnsslab
 Open-source Python-based GNSS software.
 
+![PyGNSSLab Logo](pygnsslab_logo.png "PyGNSSLab Logo")
+
 # PyGNSSLab
 **PyGNSSLab** is an open-source project focused on developing modular, Python-based GNSS tools and libraries. Our aim is to provide accurate, reliable, and extensible solutions for GNSS data processing — from basic RINEX handling to advanced PPP-AR techniques.
 
