@@ -1,3 +1,5 @@
+<img src="pygnsslab_logo.png" alt="PyGNSSLab Logo" width="300">
+
 # pygnsslab
 Open-source Python-based GNSS software.
 
