@@ -49,4 +49,6 @@
 │   │   └───rinexnav
 │   │   │   └─── test_rinexnav.ipynb
 │   │   │   └─── test_rinexnav.py
+│   │   └───sp3
+│   │   │   └─── test_sp3.ipynb
 ```
