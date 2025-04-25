@@ -22,7 +22,27 @@ Open-source Python-based GNSS software.
 ## 📁 Modules
 
 This organization hosts multiple standalone and integrated modules:
-- *(Coming soon)*
+- **RINEX2**: A comprehensive parser for RINEX 2.x observation files, supporting:
+  - Fast reading of observation data
+  - Metadata extraction
+  - Export to Parquet format for efficient storage
+  - JSON metadata output
+- [Example usage](src/pygnsslab/io/rinex2/example_usage.py)
+- [Test output](tests/rinex2/test_output.py)
+
+- **RINEX3**: Modern RINEX 3.x file handler with features for:
+  - Multi-GNSS observation data parsing
+  - Complete metadata extraction
+  - Parquet file conversion
+  - Standardized JSON metadata output
+- [Example usage](src/pygnsslab/io/rinex3/example_usage.py)
+
+- **Coming Soon**:
+  - SPP Capabilities
+  - PPP/PPP-AR Processing Engine
+  - Real-time Data Stream Handler
+  - Troposphere & Ionosphere Models
+  - Orbit & Clock Products Interface
 
 ## 📜 License
 
