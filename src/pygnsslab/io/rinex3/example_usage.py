@@ -4,10 +4,13 @@ Example script demonstrating how to use the RINEX 3 parser module.
 
 import os
 import json
+import logging
+import pandas as pd
 from pathlib import Path
-from pygnsslab.rinex3.reader import Rinex3Reader
-from pygnsslab.rinex3.writer import write_to_parquet
-from pygnsslab.rinex3.utils import find_rinex3_files
+from datetime import datetime
+from pygnsslab.io.rinex3.reader import Rinex3Reader
+from pygnsslab.io.rinex3.writer import write_to_parquet
+from pygnsslab.io.rinex3.utils import find_rinex3_files
 
 def process_rinex_file(rinex_file, output_dir):
     """

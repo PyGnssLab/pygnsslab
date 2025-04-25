@@ -16,13 +16,23 @@
 │   │   └─── __init__.py
 │   │   └───pygnsslab
 │   │   │   └─── __init__.py
-│   │   │   └───rinex3
-│   │   │   │   └─── __init__.py
-│   │   │   │   └─── example_usage.py
-│   │   │   │   └─── metadata.py
-│   │   │   │   └─── reader.py
-│   │   │   │   └─── utils.py
-│   │   │   │   └─── writer.py
+│   │   │   └───io
+│   │   │   │   └───rinex2
+│   │   │   │   │   └─── __init__.py
+│   │   │   │   │   └─── example_usage.py
+│   │   │   │   │   └─── metadata.py
+│   │   │   │   │   └─── reader.py
+│   │   │   │   │   └─── utils.py
+│   │   │   │   │   └─── writer.py
+│   │   │   │   └───rinex3
+│   │   │   │   │   └─── __init__.py
+│   │   │   │   │   └─── example_usage.py
+│   │   │   │   │   └─── metadata.py
+│   │   │   │   │   └─── reader.py
+│   │   │   │   │   └─── utils.py
+│   │   │   │   │   └─── writer.py
 │   └───tests
-│   │   └─── placeholder.txt
+│   │   └───rinex2
+│   │   │   └─── test_output.ipynb
+│   │   │   └─── test_output.py
 ```
